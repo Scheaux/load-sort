@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ya0ks1q596vch5tu/branch/main?svg=true)](https://ci.appveyor.com/project/Scheaux/cd/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/7ypmy8fm2cuf9ru2?svg=true)](https://ci.appveyor.com/project/Scheaux/load-sort)
